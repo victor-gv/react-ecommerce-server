@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Attend In-Class",
+      "day": "Feb 01th at 3:30pm",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "text": "Study React Pre-Class Notes",
+      "day": "Dec 12th at 2:30pm",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "text": "Feed the Dog",
+      "day": "Jun 06th at 7:30am",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "text": "Make your meal",
+      "day": "Dec 12th at 4:30pm",
+      "isDone": false,
+      "id": 14
+    }
+  ]
+}
