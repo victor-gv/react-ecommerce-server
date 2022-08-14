@@ -1,5 +1,5 @@
 {
-  "name": "Victor Garcia-Vao",
+  "name": "react-ecommerce-server",
   "version": "1.0.0",
   "description": "task tracker",
   "main": "server.js",
@@ -7,7 +7,7 @@
   "scripts":{
     "start": "node server.js"
   },
-  "author": "sait ibrahim",
+  "author": "Victor Garcia-Vao",
   "dependencies": {
     "json-server": "^0.17.0"
   }
