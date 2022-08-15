@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Nike Runner 2",
+      "slug": "nike-runner-2",
       "price": 90,
       "quantity": 1,
       "img": "../../img/img_1.jpeg",
@@ -12,6 +13,7 @@
     {
       "id": 2,
       "title": "Air Max Fly",
+      "slug": "air-max-fly",
       "price": 105,
       "quantity": 1,
       "img": "../../img/img_9.jpeg",
@@ -21,6 +23,7 @@
     {
       "id": 3,
       "title": "New Balance Sky",
+      "slug": "new-balance-sky",
       "price": 66,
       "quantity": 1,
       "img": "../../img/img_3.jpeg",
@@ -30,6 +33,7 @@
     {
       "id": 4,
       "title": "Nike Sub 3",
+      "slug": "nike-sub-3",
       "price": 87,
       "quantity": 1,
       "img": "../../img/img_4.jpeg",
@@ -39,6 +43,7 @@
     {
       "id": 5,
       "title": "Nike Max v2",
+      "slug": "nike-max-v2",
       "price": 100,
       "quantity": 1,
       "img": "../../img/img_5.jpeg",
@@ -48,6 +53,7 @@
     {
       "id": 6,
       "title": "Nike Run 5",
+      "slug": "nike-run-5",
       "price": 77,
       "quantity": 1,
       "img": "../../img/img_6.jpeg",
@@ -57,6 +63,7 @@
     {
       "id": 7,
       "title": "Puma JSX",
+      "slug": "puma-jsx",
       "price": 65,
       "quantity": 1,
       "img": "../../img/img_7.jpeg",
@@ -66,6 +73,7 @@
     {
       "id": 8,
       "title": "Air Force 1",
+      "slug": "air-force-1",
       "price": 105,
       "quantity": 1,
       "img": "../../img/img_8.jpeg",
@@ -75,6 +83,7 @@
     {
       "id": 9,
       "title": "Puma 80's",
+      "slug": "puma-80s",
       "price": 109,
       "quantity": 1,
       "img": "../../img/img_2.jpeg",
@@ -84,6 +93,7 @@
     {
       "id": 10,
       "title": "Air Force W",
+      "slug": "air-force-w",
       "price": 105,
       "quantity": 1,
       "img": "../../img/img_10.jpeg",
@@ -93,6 +103,7 @@
     {
       "id": 11,
       "title": "Jordan Delta 3",
+      "slug": "jordan-delta-3",
       "price": 120,
       "quantity": 1,
       "img": "../../img/img_11.jpg",
@@ -102,6 +113,7 @@
     {
       "id": 12,
       "title": "Nike Air Huarache",
+      "slug": "nike-air-huarache",
       "price": 130,
       "quantity": 1,
       "img": "../../img/img_12.jpg",
@@ -111,6 +123,7 @@
     {
       "id": 13,
       "title": "Air Max 90",
+      "slug": "air-max-90",
       "price": 99,
       "quantity": 1,
       "img": "../../img/img_13.jpg",
@@ -120,6 +133,7 @@
     {
       "id": 14,
       "title": "Air Jordan 1 Zoom",
+      "slug": "air-jordan-1-zoom",
       "price": 110,
       "quantity": 1,
       "img": "../../img/img_14.jpg",
@@ -129,6 +143,7 @@
     {
       "id": 15,
       "title": "Kyrie Infinity",
+      "slug": "kyrie-infinity",
       "price": 115,
       "quantity": 1,
       "img": "../../img/img_15.jpg",
@@ -138,6 +153,7 @@
     {
       "id": 16,
       "title": "Adidas Gazelle",
+      "slug": "adidas-gazelle",
       "price": 80,
       "quantity": 1,
       "img": "../../img/img_16.jpg",
@@ -147,6 +163,7 @@
     {
       "id": 17,
       "title": "Camisetas interiores de cuello, Pack de 6",
+      "slug": "camisetas-interiores-de-cuello-pack-de-6",
       "description": "Tejido de punto ligero, cómodo y suave. ",
       "price": 23.99,
       "quantity": 1,
@@ -156,6 +173,7 @@
     {
       "id": 18,
       "title": "Suéter Ligero con Frente Abierto",
+      "slug": "sueter-ligero-con-frente-abierto",
       "description": "Corte estrecho y cómodo que permite el movimiento.",
       "price": 18.9,
       "quantity": 1,
@@ -165,6 +183,7 @@
     {
       "id": 19,
       "title": "Polo de Golf de Ajuste Regular",
+      "slug": "polo-de-golf-de-ajuste-regular",
       "description": "Este producto talla grande, considera elegir una talla inferior a la usual.",
       "price": 10.25,
       "quantity": 1,
@@ -174,6 +193,7 @@
     {
       "id": 20,
       "title": "Chaqueta Cortavientos Plegable",
+      "slug": "chaqueta-cortavientos-plegable",
       "description": "Esta chaqueta impermeable es totalmente plegable y cuenta con un bolsillo frontal tipo canguro, encuadernación en el dobladillo y las mangas, y un cordón elástico ajustable en el dobladillo inferior para mantener fuera los elementos.",
       "price": 27.73,
       "quantity": 1,
@@ -182,7 +202,8 @@
     },
     {
       "id": 21,
-      "title": "Sudadera Hombre de Cremallera Manga Larga",
+      "title": "Sudadera de Cremallera Manga Larga",
+      "slug": "sudadera-de-cremallera-manga-larga",
       "description": "Esta sudadera con grapas de armario cuenta con una cremallera frontal con bolsillo dividido y puños y dobladillo acanalados con sellado cálido.",
       "price": 27.5,
       "quantity": 1,
@@ -192,6 +213,7 @@
     {
       "id": 22,
       "title": "Saco de Dormir de Microforro Polar, Pack de 2",
+      "slug": "saco-de-dormir-de-microforro-polar",
       "description": "Aprovecha los básicos para bebés con estos monos de algodón 100 % suave con un cuello de vuelta y broches en la entrepierna para un fácil vestido y pañales.",
       "price": 32.99,
       "quantity": 1,
@@ -201,6 +223,7 @@
     {
       "id": 23,
       "title": "Camisa Túnica de Manga Larga",
+      "slug": "camisa-tunica-de-manga-larga",
       "description": "Una prenda básica en el armario, esta camisa clásica de manga larga proporciona un aspecto fácil perfecto para cualquier ocasión.",
       "price": 19.95,
       "quantity": 1,
@@ -210,6 +233,7 @@
     {
       "id": 24,
       "title": "Camisa de franela a cuadros de manga larga",
+      "slug": "camisa-de-franela-a-cuadros-de-manga-larga",
       "description": "Mismo corte, nuevo nombre: Hemos cambiado el nombre de este estilo de camisa a «Regular Fit» pero las medidas son las mismas.",
       "price": 19.4,
       "quantity": 1,
@@ -219,6 +243,7 @@
     {
       "id": 25,
       "title": "Camisetas Henley de Manga Corta",
+      "slug": "camisetas-henley-de-manga-corta",
       "description": "Esta elegante y cómoda camiseta mantendrá el ritmo de las actividades cotidianas y toda la diversión.",
       "price": 18.99,
       "quantity": 1,
@@ -228,6 +253,7 @@
     {
       "id": 26,
       "title": "Camisetas de Manga Corta, Pack de 5",
+      "slug": "camisetas-de-manga-corta-pack-de-5",
       "description": "Tejido de punto ligero, cómodo y suave.",
       "price": 13.9,
       "quantity": 1,
